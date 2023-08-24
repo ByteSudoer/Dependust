@@ -3,6 +3,8 @@ A Rust tool to check for unused dependencies included in your crate by parsing  
 
 ## Depdendust in action
 
+![2023-08-24_12-43](https://github.com/ByteSudoer/Dependust/assets/88513682/14ec550b-2433-4e3a-b65d-1f0b1cccff06)
+
 ## Installation
 Clone the repositry and compile it
 ```bash
