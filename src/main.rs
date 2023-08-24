@@ -57,7 +57,7 @@ fn main() {
         .cloned()
         .collect();
 
-    println!("Presend Dependencies : {:?}", used_dependencies);
+    println!("Present Dependencies : {:?}", used_dependencies);
 
     if unused_dependencies.is_empty() {
         println!("No unused dependencies detected.");
